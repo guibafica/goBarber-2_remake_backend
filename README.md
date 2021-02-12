@@ -1,4 +1,6 @@
-# Sobre os arquivos:
+# Sobre os Arquivos e suas Funcionalidades:
+
+> A base do TypeScript é o SoC: Separation of Concerns (Separação de preocupações), ou seja, cada arquivo deve ter uma única preocupação!
 
 ### Repositories =>
 
