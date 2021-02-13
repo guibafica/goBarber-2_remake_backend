@@ -12,3 +12,10 @@
 ### Models =>
 
 - É responsável pelo formato dos dados.
+
+### DTO - Data Transfer Object =>
+
+- Sempre que for transmitir dados de um arquivo para outro, além de usar o DTO, o formato deve ser objeto;
+- Em outras palavras, o DTO funciona como uma interface, dizendo ao método quais dados ele recebe e qual exatamente está faltando.
+
+> Tips: Pode-se usar a tecla Ctrl ao por o mouse em cima da utilização da interface, assim o VsCode vai mostrar exatamente todas as variáveis e seus respectivos tipos.
